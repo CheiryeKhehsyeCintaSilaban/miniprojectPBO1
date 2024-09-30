@@ -1,4 +1,7 @@
 # miniprojectPBO1
+Nama : Cheirye Khehsye Cinta Silaban
+NIM : 2309116061
+Kelas : Sistem Informasi B
 SISTEM MANAJEMEN PENDATAAN JEMAAT GPdI NARWASTU SANIPAH
 
 Saat program di jalankan, maka program akan menampilkan menu utama dimana terdapat menu untuk admin dan juga user(jemaat)
